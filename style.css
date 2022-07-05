@@ -1,5 +1,9 @@
+/* É o estilo do html */
 html {
+    /* Muda a cor de fundo */
     background-color: black;
+    /* Muda a cor do texto */
     color: #fff;
+    /* Centraliza as informações do html */
     text-align: center;
 }
